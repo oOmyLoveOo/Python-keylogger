@@ -90,11 +90,11 @@ If you're also exploring this field, feel free to fork, explore, and learn from 
 ## 🖼️ Screenshots
 
 ### 🧪 Client Running (Keylogger)
-![Keylogger running](assets/Screenshot 2025-07-08 005036.png)
-(assets/Screenshot 2025-07-08 005355.png)
+![Keylogger .exe](assets/Screenshot2025-07-08005036.png)
+![Keylogger running](assets/Screenshot2025-07-08005355.png)
 
 ### 🛡️ Flask Server Receiving Logs
-![Flask server](assets/Screenshot 2025-07-08 005442.png)
+![Flask server](assets/Screenshot2025-07-08005442.png)
 
 ### 🧾 Keystroke Input
-![Log example](assets/Screenshot 2025-07-08 005448.png)
+![Log example](assets/Screenshot2025-07-08005448.png)
