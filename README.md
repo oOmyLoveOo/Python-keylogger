@@ -86,3 +86,15 @@ This was a fun and educational project to solidify my Python skills and gain ins
 If you're also exploring this field, feel free to fork, explore, and learn from it.
 
 → Learning how things work is the first step to defending against them.
+
+## 🖼️ Screenshots
+
+### 🧪 Client Running (Keylogger)
+![Keylogger running](assets/Screenshot 2025-07-08 005036.png)
+(assets/Screenshot 2025-07-08 005355.png)
+
+### 🛡️ Flask Server Receiving Logs
+![Flask server](assets/Screenshot 2025-07-08 005442.png)
+
+### 🧾 Keystroke Input
+![Log example](assets/Screenshot 2025-07-08 005448.png)
