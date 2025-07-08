@@ -1,0 +1,22 @@
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# IDEs/Editors
+.vscode/
+*.log
+.DS_Store
+
+# Output files
+*.exe
